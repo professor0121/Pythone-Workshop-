@@ -76,3 +76,29 @@ a,b=b,a
 print('after swapping the value of a and b respectively',a,b)
 
 ```
+
+
+#Data types using the types function or a method.another thing is that there is no character data type in python
+```python
+#Data type in pythons 
+
+#Data type in pythons 
+
+a=10
+b=2+3j
+c=2.4
+d="hello abhishek"
+e=True
+f=[1,2,3,4]
+g={'name':'abhi'}
+h='a'
+
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
+print(type(f))
+print(type(g))
+print(type(h))
+```
