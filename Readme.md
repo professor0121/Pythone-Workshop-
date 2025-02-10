@@ -102,3 +102,36 @@ print(type(f))
 print(type(g))
 print(type(h))
 ```
+
+
+#tpye casting
+```python
+#Data type in pythons and the type casting of the data type in python
+
+a=10
+b=2+3j
+c=2.4
+d="hello abhishek"
+e=True
+f=[1,2,3,4]
+g={'name':'abhi'}
+h='a'
+
+print(int(c))
+print(str(c))
+print(str(g))
+ 
+print(complex(a))
+```
+#sum of 2 num usning the user input
+```python
+#wap to add 2 num taking the in put from the user
+
+num1=int(input("enter the firstnum\t"))
+num2=int(input("enter the firstnum\t"))
+
+add=num1+num2
+
+print('the sum is =\t\t',add)
+
+```
