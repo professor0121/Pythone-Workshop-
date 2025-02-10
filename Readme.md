@@ -8,7 +8,7 @@ A variable is created the moment you first assign a value to it.
 
 if the 2 or more vriable having same data then the variable addresses are same
 
-'''python
+```python
 
 #python  variables
 
@@ -28,5 +28,5 @@ print(d)
 
 r=100
 print(r)
-python
-'''
+
+```
