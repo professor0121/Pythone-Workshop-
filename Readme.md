@@ -148,3 +148,18 @@ print('before swapping num1 and num2\t ',num1,num2)
 num1,num2=num2,num1
 print('after swapping num1 and num2 \t',num1,num2)
 ```
+
+
+#show the greatest number
+```python
+#conditional statement
+
+num1=int(input('enter first number\t'))
+num2=int(input('enter second number\t'))
+
+if num1>num2:
+ print(num1,"is greater")
+
+else:
+ print(num2,'is greater')
+```
