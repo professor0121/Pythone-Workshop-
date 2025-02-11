@@ -12,5 +12,5 @@ h='a'
 print(int(c))
 print(str(c))
 print(str(g))
-print(int('a'))
+ 
 print(complex(a))
