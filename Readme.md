@@ -220,3 +220,6 @@ for i in range(0,len(l)):
 
 print(sum)
 ```
+
+
+Library is a collection of or Library is consist from,function, reffrencess , class and all logical expressions.
